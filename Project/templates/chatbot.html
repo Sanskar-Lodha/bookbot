@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="max-w-2xl mx-auto mt-10 bg-white p-6 rounded shadow">
+    <h2 class="text-xl font-bold mb-4">💬 Chat with BookBot</h2>
+    <div id="chat-box" class="h-96 overflow-y-auto border p-3 mb-4 bg-gray-50 rounded">
+        {% for msg in messages %}
+            <div class="mb-2">
+                <span class="text-xs text-gray-500">{{ msg.timestamp.strftime('%Y-%m-%d %H:%M:%S') }}</span><br>
+                {% if msg.is_user %}
+                    <p class="text-right text-red-700">{{ msg.message }}</p>
+                {% else %}
+                    <p class="text-left text-blue-700">{{ msg.message }}</p>
+                {% endif %}
+            </div>
+        {% endfor %}
+    </div>
+    <form id="chat-form" method="POST">
+        <input type="text" name="message" placeholder="Type your message..." class="w-full border p-2 rounded mb-2">
+        <!-- <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded-xl">Send</button> -->
+         <div class="flex justify-center">
+        <button type="submit" class="bg-green-600 text-white px-4 py-2 rounded-xl">
+        Send
+        </button>
+    </div>
+    </form>
+</div>
+<script>
+    const box = document.getElementById('chat-box');
+    box.scrollTop = box.scrollHeight;
+</script>
+
+{% endblock %}

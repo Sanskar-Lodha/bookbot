@@ -1,0 +1,1052 @@
+[
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "description": "Historical novel set in London and Paris",
+    "price": 1191.38,
+    "stock": 22
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "description": "Psychological exploration of guilt",
+    "price": 1191.4,
+    "stock": 17
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic romance",
+    "price": 675.39,
+    "stock": 24
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "description": "Epic tale of the sea",
+    "price": 599.55,
+    "stock": 19
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "Roaring \u201920s American novel",
+    "price": 1146.25,
+    "stock": 8
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Bront\u00eb",
+    "description": "Gothic novel with romance",
+    "price": 569.64,
+    "stock": 4
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Bront\u00eb",
+    "description": "Dark romance on the moors",
+    "price": 1175.76,
+    "stock": 12
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "description": "Gothic novel about creation",
+    "price": 864.31,
+    "stock": 10
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "description": "Russian novel on love and society",
+    "price": 1407.39,
+    "stock": 23
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "description": "Epic journey of Odysseus",
+    "price": 1401.54,
+    "stock": 13
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "description": "Gothic vampire novel",
+    "price": 1479.94,
+    "stock": 12
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "description": "Revenge adventure",
+    "price": 241.26,
+    "stock": 1
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "description": "Classic Spanish novel",
+    "price": 1068.74,
+    "stock": 6
+  },
+  {
+    "title": "Les Mis\u00e9rables",
+    "author": "Victor Hugo",
+    "description": "French historical epic",
+    "price": 255.09,
+    "stock": 21
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "description": "Classic detective stories",
+    "price": 291.78,
+    "stock": 10
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "description": "American novel on freedom",
+    "price": 1171.04,
+    "stock": 6
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "Fantasy journey preceding LOTR",
+    "price": 440.35,
+    "stock": 20
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "description": "Epic Russian novel",
+    "price": 523.39,
+    "stock": 16
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "description": "Modernist classic",
+    "price": 790.15,
+    "stock": 6
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "description": "Fantasy adventure",
+    "price": 373.11,
+    "stock": 20
+  },
+  {
+    "title": "A Tale of Two Cities (21)",
+    "author": "Charles Dickens",
+    "description": "Historical novel set in London and Paris",
+    "price": 883.4,
+    "stock": 3
+  },
+  {
+    "title": "Crime and Punishment (22)",
+    "author": "Fyodor Dostoevsky",
+    "description": "Psychological exploration of guilt",
+    "price": 806.52,
+    "stock": 15
+  },
+  {
+    "title": "Pride and Prejudice (23)",
+    "author": "Jane Austen",
+    "description": "A classic romance",
+    "price": 1297.59,
+    "stock": 1
+  },
+  {
+    "title": "Moby-Dick (24)",
+    "author": "Herman Melville",
+    "description": "Epic tale of the sea",
+    "price": 1298.4,
+    "stock": 17
+  },
+  {
+    "title": "The Great Gatsby (25)",
+    "author": "F. Scott Fitzgerald",
+    "description": "Roaring \u201920s American novel",
+    "price": 1420.41,
+    "stock": 1
+  },
+  {
+    "title": "Jane Eyre (26)",
+    "author": "Charlotte Bront\u00eb",
+    "description": "Gothic novel with romance",
+    "price": 1470.33,
+    "stock": 13
+  },
+  {
+    "title": "Wuthering Heights (27)",
+    "author": "Emily Bront\u00eb",
+    "description": "Dark romance on the moors",
+    "price": 1035.0,
+    "stock": 6
+  },
+  {
+    "title": "Frankenstein (28)",
+    "author": "Mary Shelley",
+    "description": "Gothic novel about creation",
+    "price": 796.84,
+    "stock": 16
+  },
+  {
+    "title": "Anna Karenina (29)",
+    "author": "Leo Tolstoy",
+    "description": "Russian novel on love and society",
+    "price": 1345.19,
+    "stock": 11
+  },
+  {
+    "title": "The Odyssey (30)",
+    "author": "Homer",
+    "description": "Epic journey of Odysseus",
+    "price": 851.1,
+    "stock": 1
+  },
+  {
+    "title": "Dracula (31)",
+    "author": "Bram Stoker",
+    "description": "Gothic vampire novel",
+    "price": 650.92,
+    "stock": 15
+  },
+  {
+    "title": "The Count of Monte Cristo (32)",
+    "author": "Alexandre Dumas",
+    "description": "Revenge adventure",
+    "price": 931.65,
+    "stock": 0
+  },
+  {
+    "title": "Don Quixote (33)",
+    "author": "Miguel de Cervantes",
+    "description": "Classic Spanish novel",
+    "price": 863.16,
+    "stock": 11
+  },
+  {
+    "title": "Les Mis\u00e9rables (34)",
+    "author": "Victor Hugo",
+    "description": "French historical epic",
+    "price": 233.88,
+    "stock": 14
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes (35)",
+    "author": "Arthur Conan Doyle",
+    "description": "Classic detective stories",
+    "price": 391.43,
+    "stock": 9
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn (36)",
+    "author": "Mark Twain",
+    "description": "American novel on freedom",
+    "price": 735.63,
+    "stock": 18
+  },
+  {
+    "title": "The Hobbit (37)",
+    "author": "J.R.R. Tolkien",
+    "description": "Fantasy journey preceding LOTR",
+    "price": 614.34,
+    "stock": 19
+  },
+  {
+    "title": "War and Peace (38)",
+    "author": "Leo Tolstoy",
+    "description": "Epic Russian novel",
+    "price": 1284.57,
+    "stock": 20
+  },
+  {
+    "title": "Ulysses (39)",
+    "author": "James Joyce",
+    "description": "Modernist classic",
+    "price": 780.83,
+    "stock": 2
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone (40)",
+    "author": "J.K. Rowling",
+    "description": "Fantasy adventure",
+    "price": 1284.52,
+    "stock": 12
+  },
+  {
+    "title": "A Tale of Two Cities (41)",
+    "author": "Charles Dickens",
+    "description": "Historical novel set in London and Paris",
+    "price": 489.17,
+    "stock": 22
+  },
+  {
+    "title": "Crime and Punishment (42)",
+    "author": "Fyodor Dostoevsky",
+    "description": "Psychological exploration of guilt",
+    "price": 1242.95,
+    "stock": 1
+  },
+  {
+    "title": "Pride and Prejudice (43)",
+    "author": "Jane Austen",
+    "description": "A classic romance",
+    "price": 270.43,
+    "stock": 17
+  },
+  {
+    "title": "Moby-Dick (44)",
+    "author": "Herman Melville",
+    "description": "Epic tale of the sea",
+    "price": 475.1,
+    "stock": 3
+  },
+  {
+    "title": "The Great Gatsby (45)",
+    "author": "F. Scott Fitzgerald",
+    "description": "Roaring \u201920s American novel",
+    "price": 1148.26,
+    "stock": 3
+  },
+  {
+    "title": "Jane Eyre (46)",
+    "author": "Charlotte Bront\u00eb",
+    "description": "Gothic novel with romance",
+    "price": 1344.34,
+    "stock": 12
+  },
+  {
+    "title": "Wuthering Heights (47)",
+    "author": "Emily Bront\u00eb",
+    "description": "Dark romance on the moors",
+    "price": 937.57,
+    "stock": 12
+  },
+  {
+    "title": "Frankenstein (48)",
+    "author": "Mary Shelley",
+    "description": "Gothic novel about creation",
+    "price": 821.06,
+    "stock": 18
+  },
+  {
+    "title": "Anna Karenina (49)",
+    "author": "Leo Tolstoy",
+    "description": "Russian novel on love and society",
+    "price": 1354.46,
+    "stock": 9
+  },
+  {
+    "title": "The Odyssey (50)",
+    "author": "Homer",
+    "description": "Epic journey of Odysseus",
+    "price": 360.55,
+    "stock": 0
+  },
+  {
+    "title": "Dracula (51)",
+    "author": "Bram Stoker",
+    "description": "Gothic vampire novel",
+    "price": 833.2,
+    "stock": 21
+  },
+  {
+    "title": "The Count of Monte Cristo (52)",
+    "author": "Alexandre Dumas",
+    "description": "Revenge adventure",
+    "price": 728.41,
+    "stock": 25
+  },
+  {
+    "title": "Don Quixote (53)",
+    "author": "Miguel de Cervantes",
+    "description": "Classic Spanish novel",
+    "price": 1470.09,
+    "stock": 16
+  },
+  {
+    "title": "Les Mis\u00e9rables (54)",
+    "author": "Victor Hugo",
+    "description": "French historical epic",
+    "price": 1276.86,
+    "stock": 19
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes (55)",
+    "author": "Arthur Conan Doyle",
+    "description": "Classic detective stories",
+    "price": 248.49,
+    "stock": 21
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn (56)",
+    "author": "Mark Twain",
+    "description": "American novel on freedom",
+    "price": 434.1,
+    "stock": 4
+  },
+  {
+    "title": "The Hobbit (57)",
+    "author": "J.R.R. Tolkien",
+    "description": "Fantasy journey preceding LOTR",
+    "price": 1448.31,
+    "stock": 17
+  },
+  {
+    "title": "War and Peace (58)",
+    "author": "Leo Tolstoy",
+    "description": "Epic Russian novel",
+    "price": 1097.12,
+    "stock": 21
+  },
+  {
+    "title": "Ulysses (59)",
+    "author": "James Joyce",
+    "description": "Modernist classic",
+    "price": 987.33,
+    "stock": 6
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone (60)",
+    "author": "J.K. Rowling",
+    "description": "Fantasy adventure",
+    "price": 1054.75,
+    "stock": 1
+  },
+  {
+    "title": "A Tale of Two Cities (61)",
+    "author": "Charles Dickens",
+    "description": "Historical novel set in London and Paris",
+    "price": 1459.06,
+    "stock": 7
+  },
+  {
+    "title": "Crime and Punishment (62)",
+    "author": "Fyodor Dostoevsky",
+    "description": "Psychological exploration of guilt",
+    "price": 250.91,
+    "stock": 9
+  },
+  {
+    "title": "Pride and Prejudice (63)",
+    "author": "Jane Austen",
+    "description": "A classic romance",
+    "price": 1408.74,
+    "stock": 20
+  },
+  {
+    "title": "Moby-Dick (64)",
+    "author": "Herman Melville",
+    "description": "Epic tale of the sea",
+    "price": 1480.2,
+    "stock": 24
+  },
+  {
+    "title": "The Great Gatsby (65)",
+    "author": "F. Scott Fitzgerald",
+    "description": "Roaring \u201920s American novel",
+    "price": 1128.4,
+    "stock": 24
+  },
+  {
+    "title": "Jane Eyre (66)",
+    "author": "Charlotte Bront\u00eb",
+    "description": "Gothic novel with romance",
+    "price": 397.23,
+    "stock": 20
+  },
+  {
+    "title": "Wuthering Heights (67)",
+    "author": "Emily Bront\u00eb",
+    "description": "Dark romance on the moors",
+    "price": 220.59,
+    "stock": 5
+  },
+  {
+    "title": "Frankenstein (68)",
+    "author": "Mary Shelley",
+    "description": "Gothic novel about creation",
+    "price": 514.7,
+    "stock": 3
+  },
+  {
+    "title": "Anna Karenina (69)",
+    "author": "Leo Tolstoy",
+    "description": "Russian novel on love and society",
+    "price": 1423.02,
+    "stock": 21
+  },
+  {
+    "title": "The Odyssey (70)",
+    "author": "Homer",
+    "description": "Epic journey of Odysseus",
+    "price": 837.59,
+    "stock": 23
+  },
+  {
+    "title": "Dracula (71)",
+    "author": "Bram Stoker",
+    "description": "Gothic vampire novel",
+    "price": 1472.17,
+    "stock": 17
+  },
+  {
+    "title": "The Count of Monte Cristo (72)",
+    "author": "Alexandre Dumas",
+    "description": "Revenge adventure",
+    "price": 1457.62,
+    "stock": 15
+  },
+  {
+    "title": "Don Quixote (73)",
+    "author": "Miguel de Cervantes",
+    "description": "Classic Spanish novel",
+    "price": 1105.62,
+    "stock": 12
+  },
+  {
+    "title": "Les Mis\u00e9rables (74)",
+    "author": "Victor Hugo",
+    "description": "French historical epic",
+    "price": 735.26,
+    "stock": 9
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes (75)",
+    "author": "Arthur Conan Doyle",
+    "description": "Classic detective stories",
+    "price": 1319.23,
+    "stock": 5
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn (76)",
+    "author": "Mark Twain",
+    "description": "American novel on freedom",
+    "price": 754.04,
+    "stock": 9
+  },
+  {
+    "title": "The Hobbit (77)",
+    "author": "J.R.R. Tolkien",
+    "description": "Fantasy journey preceding LOTR",
+    "price": 407.6,
+    "stock": 10
+  },
+  {
+    "title": "War and Peace (78)",
+    "author": "Leo Tolstoy",
+    "description": "Epic Russian novel",
+    "price": 750.11,
+    "stock": 14
+  },
+  {
+    "title": "Ulysses (79)",
+    "author": "James Joyce",
+    "description": "Modernist classic",
+    "price": 640.17,
+    "stock": 11
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone (80)",
+    "author": "J.K. Rowling",
+    "description": "Fantasy adventure",
+    "price": 237.14,
+    "stock": 2
+  },
+  {
+    "title": "A Tale of Two Cities (81)",
+    "author": "Charles Dickens",
+    "description": "Historical novel set in London and Paris",
+    "price": 673.41,
+    "stock": 16
+  },
+  {
+    "title": "Crime and Punishment (82)",
+    "author": "Fyodor Dostoevsky",
+    "description": "Psychological exploration of guilt",
+    "price": 637.78,
+    "stock": 6
+  },
+  {
+    "title": "Pride and Prejudice (83)",
+    "author": "Jane Austen",
+    "description": "A classic romance",
+    "price": 596.76,
+    "stock": 25
+  },
+  {
+    "title": "Moby-Dick (84)",
+    "author": "Herman Melville",
+    "description": "Epic tale of the sea",
+    "price": 838.4,
+    "stock": 16
+  },
+  {
+    "title": "The Great Gatsby (85)",
+    "author": "F. Scott Fitzgerald",
+    "description": "Roaring \u201920s American novel",
+    "price": 204.76,
+    "stock": 16
+  },
+  {
+    "title": "Jane Eyre (86)",
+    "author": "Charlotte Bront\u00eb",
+    "description": "Gothic novel with romance",
+    "price": 831.26,
+    "stock": 2
+  },
+  {
+    "title": "Wuthering Heights (87)",
+    "author": "Emily Bront\u00eb",
+    "description": "Dark romance on the moors",
+    "price": 652.12,
+    "stock": 13
+  },
+  {
+    "title": "Frankenstein (88)",
+    "author": "Mary Shelley",
+    "description": "Gothic novel about creation",
+    "price": 1385.33,
+    "stock": 14
+  },
+  {
+    "title": "Anna Karenina (89)",
+    "author": "Leo Tolstoy",
+    "description": "Russian novel on love and society",
+    "price": 264.9,
+    "stock": 10
+  },
+  {
+    "title": "The Odyssey (90)",
+    "author": "Homer",
+    "description": "Epic journey of Odysseus",
+    "price": 849.89,
+    "stock": 5
+  },
+  {
+    "title": "Dracula (91)",
+    "author": "Bram Stoker",
+    "description": "Gothic vampire novel",
+    "price": 518.05,
+    "stock": 17
+  },
+  {
+    "title": "The Count of Monte Cristo (92)",
+    "author": "Alexandre Dumas",
+    "description": "Revenge adventure",
+    "price": 384.94,
+    "stock": 15
+  },
+  {
+    "title": "Don Quixote (93)",
+    "author": "Miguel de Cervantes",
+    "description": "Classic Spanish novel",
+    "price": 342.3,
+    "stock": 18
+  },
+  {
+    "title": "Les Mis\u00e9rables (94)",
+    "author": "Victor Hugo",
+    "description": "French historical epic",
+    "price": 951.5,
+    "stock": 10
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes (95)",
+    "author": "Arthur Conan Doyle",
+    "description": "Classic detective stories",
+    "price": 1102.26,
+    "stock": 15
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn (96)",
+    "author": "Mark Twain",
+    "description": "American novel on freedom",
+    "price": 1426.78,
+    "stock": 13
+  },
+  {
+    "title": "The Hobbit (97)",
+    "author": "J.R.R. Tolkien",
+    "description": "Fantasy journey preceding LOTR",
+    "price": 1298.35,
+    "stock": 4
+  },
+  {
+    "title": "War and Peace (98)",
+    "author": "Leo Tolstoy",
+    "description": "Epic Russian novel",
+    "price": 257.19,
+    "stock": 3
+  },
+  {
+    "title": "Ulysses (99)",
+    "author": "James Joyce",
+    "description": "Modernist classic",
+    "price": 1337.62,
+    "stock": 20
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone (100)",
+    "author": "J.K. Rowling",
+    "description": "Fantasy adventure",
+    "price": 608.61,
+    "stock": 12
+  },
+  {
+    "title": "A Tale of Two Cities (101)",
+    "author": "Charles Dickens",
+    "description": "Historical novel set in London and Paris",
+    "price": 996.2,
+    "stock": 24
+  },
+  {
+    "title": "Crime and Punishment (102)",
+    "author": "Fyodor Dostoevsky",
+    "description": "Psychological exploration of guilt",
+    "price": 805.94,
+    "stock": 8
+  },
+  {
+    "title": "Pride and Prejudice (103)",
+    "author": "Jane Austen",
+    "description": "A classic romance",
+    "price": 453.88,
+    "stock": 6
+  },
+  {
+    "title": "Moby-Dick (104)",
+    "author": "Herman Melville",
+    "description": "Epic tale of the sea",
+    "price": 1394.23,
+    "stock": 17
+  },
+  {
+    "title": "The Great Gatsby (105)",
+    "author": "F. Scott Fitzgerald",
+    "description": "Roaring \u201920s American novel",
+    "price": 899.26,
+    "stock": 0
+  },
+  {
+    "title": "Jane Eyre (106)",
+    "author": "Charlotte Bront\u00eb",
+    "description": "Gothic novel with romance",
+    "price": 831.8,
+    "stock": 17
+  },
+  {
+    "title": "Wuthering Heights (107)",
+    "author": "Emily Bront\u00eb",
+    "description": "Dark romance on the moors",
+    "price": 337.87,
+    "stock": 15
+  },
+  {
+    "title": "Frankenstein (108)",
+    "author": "Mary Shelley",
+    "description": "Gothic novel about creation",
+    "price": 790.55,
+    "stock": 4
+  },
+  {
+    "title": "Anna Karenina (109)",
+    "author": "Leo Tolstoy",
+    "description": "Russian novel on love and society",
+    "price": 547.13,
+    "stock": 20
+  },
+  {
+    "title": "The Odyssey (110)",
+    "author": "Homer",
+    "description": "Epic journey of Odysseus",
+    "price": 1009.08,
+    "stock": 19
+  },
+  {
+    "title": "Dracula (111)",
+    "author": "Bram Stoker",
+    "description": "Gothic vampire novel",
+    "price": 719.0,
+    "stock": 13
+  },
+  {
+    "title": "The Count of Monte Cristo (112)",
+    "author": "Alexandre Dumas",
+    "description": "Revenge adventure",
+    "price": 764.93,
+    "stock": 23
+  },
+  {
+    "title": "Don Quixote (113)",
+    "author": "Miguel de Cervantes",
+    "description": "Classic Spanish novel",
+    "price": 1332.55,
+    "stock": 16
+  },
+  {
+    "title": "Les Mis\u00e9rables (114)",
+    "author": "Victor Hugo",
+    "description": "French historical epic",
+    "price": 1204.03,
+    "stock": 6
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes (115)",
+    "author": "Arthur Conan Doyle",
+    "description": "Classic detective stories",
+    "price": 1354.08,
+    "stock": 21
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn (116)",
+    "author": "Mark Twain",
+    "description": "American novel on freedom",
+    "price": 990.95,
+    "stock": 19
+  },
+  {
+    "title": "The Hobbit (117)",
+    "author": "J.R.R. Tolkien",
+    "description": "Fantasy journey preceding LOTR",
+    "price": 277.97,
+    "stock": 14
+  },
+  {
+    "title": "War and Peace (118)",
+    "author": "Leo Tolstoy",
+    "description": "Epic Russian novel",
+    "price": 362.52,
+    "stock": 6
+  },
+  {
+    "title": "Ulysses (119)",
+    "author": "James Joyce",
+    "description": "Modernist classic",
+    "price": 1444.1,
+    "stock": 22
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone (120)",
+    "author": "J.K. Rowling",
+    "description": "Fantasy adventure",
+    "price": 723.67,
+    "stock": 20
+  },
+  {
+    "title": "A Tale of Two Cities (121)",
+    "author": "Charles Dickens",
+    "description": "Historical novel set in London and Paris",
+    "price": 297.88,
+    "stock": 18
+  },
+  {
+    "title": "Crime and Punishment (122)",
+    "author": "Fyodor Dostoevsky",
+    "description": "Psychological exploration of guilt",
+    "price": 1248.29,
+    "stock": 5
+  },
+  {
+    "title": "Pride and Prejudice (123)",
+    "author": "Jane Austen",
+    "description": "A classic romance",
+    "price": 832.83,
+    "stock": 0
+  },
+  {
+    "title": "Moby-Dick (124)",
+    "author": "Herman Melville",
+    "description": "Epic tale of the sea",
+    "price": 476.47,
+    "stock": 25
+  },
+  {
+    "title": "The Great Gatsby (125)",
+    "author": "F. Scott Fitzgerald",
+    "description": "Roaring \u201920s American novel",
+    "price": 1231.37,
+    "stock": 10
+  },
+  {
+    "title": "Jane Eyre (126)",
+    "author": "Charlotte Bront\u00eb",
+    "description": "Gothic novel with romance",
+    "price": 1088.56,
+    "stock": 17
+  },
+  {
+    "title": "Wuthering Heights (127)",
+    "author": "Emily Bront\u00eb",
+    "description": "Dark romance on the moors",
+    "price": 1047.49,
+    "stock": 18
+  },
+  {
+    "title": "Frankenstein (128)",
+    "author": "Mary Shelley",
+    "description": "Gothic novel about creation",
+    "price": 404.41,
+    "stock": 7
+  },
+  {
+    "title": "Anna Karenina (129)",
+    "author": "Leo Tolstoy",
+    "description": "Russian novel on love and society",
+    "price": 662.6,
+    "stock": 7
+  },
+  {
+    "title": "The Odyssey (130)",
+    "author": "Homer",
+    "description": "Epic journey of Odysseus",
+    "price": 494.27,
+    "stock": 12
+  },
+  {
+    "title": "Dracula (131)",
+    "author": "Bram Stoker",
+    "description": "Gothic vampire novel",
+    "price": 1049.99,
+    "stock": 5
+  },
+  {
+    "title": "The Count of Monte Cristo (132)",
+    "author": "Alexandre Dumas",
+    "description": "Revenge adventure",
+    "price": 1055.36,
+    "stock": 7
+  },
+  {
+    "title": "Don Quixote (133)",
+    "author": "Miguel de Cervantes",
+    "description": "Classic Spanish novel",
+    "price": 1167.49,
+    "stock": 23
+  },
+  {
+    "title": "Les Mis\u00e9rables (134)",
+    "author": "Victor Hugo",
+    "description": "French historical epic",
+    "price": 796.19,
+    "stock": 17
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes (135)",
+    "author": "Arthur Conan Doyle",
+    "description": "Classic detective stories",
+    "price": 716.42,
+    "stock": 2
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn (136)",
+    "author": "Mark Twain",
+    "description": "American novel on freedom",
+    "price": 1043.11,
+    "stock": 7
+  },
+  {
+    "title": "The Hobbit (137)",
+    "author": "J.R.R. Tolkien",
+    "description": "Fantasy journey preceding LOTR",
+    "price": 1407.72,
+    "stock": 3
+  },
+  {
+    "title": "War and Peace (138)",
+    "author": "Leo Tolstoy",
+    "description": "Epic Russian novel",
+    "price": 644.12,
+    "stock": 3
+  },
+  {
+    "title": "Ulysses (139)",
+    "author": "James Joyce",
+    "description": "Modernist classic",
+    "price": 720.64,
+    "stock": 3
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone (140)",
+    "author": "J.K. Rowling",
+    "description": "Fantasy adventure",
+    "price": 272.86,
+    "stock": 14
+  },
+  {
+    "title": "A Tale of Two Cities (141)",
+    "author": "Charles Dickens",
+    "description": "Historical novel set in London and Paris",
+    "price": 964.86,
+    "stock": 4
+  },
+  {
+    "title": "Crime and Punishment (142)",
+    "author": "Fyodor Dostoevsky",
+    "description": "Psychological exploration of guilt",
+    "price": 310.24,
+    "stock": 12
+  },
+  {
+    "title": "Pride and Prejudice (143)",
+    "author": "Jane Austen",
+    "description": "A classic romance",
+    "price": 632.27,
+    "stock": 17
+  },
+  {
+    "title": "Moby-Dick (144)",
+    "author": "Herman Melville",
+    "description": "Epic tale of the sea",
+    "price": 634.48,
+    "stock": 19
+  },
+  {
+    "title": "The Great Gatsby (145)",
+    "author": "F. Scott Fitzgerald",
+    "description": "Roaring \u201920s American novel",
+    "price": 1492.53,
+    "stock": 17
+  },
+  {
+    "title": "Jane Eyre (146)",
+    "author": "Charlotte Bront\u00eb",
+    "description": "Gothic novel with romance",
+    "price": 1319.02,
+    "stock": 6
+  },
+  {
+    "title": "Wuthering Heights (147)",
+    "author": "Emily Bront\u00eb",
+    "description": "Dark romance on the moors",
+    "price": 380.77,
+    "stock": 24
+  },
+  {
+    "title": "Frankenstein (148)",
+    "author": "Mary Shelley",
+    "description": "Gothic novel about creation",
+    "price": 293.5,
+    "stock": 21
+  },
+  {
+    "title": "Anna Karenina (149)",
+    "author": "Leo Tolstoy",
+    "description": "Russian novel on love and society",
+    "price": 1349.97,
+    "stock": 24
+  },
+  {
+    "title": "The Odyssey (150)",
+    "author": "Homer",
+    "description": "Epic journey of Odysseus",
+    "price": 864.21,
+    "stock": 20
+  }
+]
