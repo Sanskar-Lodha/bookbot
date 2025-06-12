@@ -1,4 +1,4 @@
-# 📚 BookBot — Book Search Chatbot
+# 📚 BookBot 
 
 **BookBot** is a Flask-based web application that allows users to register, log in, and interact with a chatbot to search and explore a catalog of books. The chatbot uses natural language processing (via OpenAI API) to understand user queries and help them find books by title, author, price range, or availability.
 
